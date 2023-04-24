@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://Bonnyrepacks/sitemap.xml
+Sitemap: https://amonguser.github.io/bonnyrepacks/sitemap.xml

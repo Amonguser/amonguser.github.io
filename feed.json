@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Bonnysrepacks",
     "description": "",
-    "home_page_url": "https://Bonnyrepacks",
-    "feed_url": "https://Bonnyrepacks/feed.json",
+    "home_page_url": "https://amonguser.github.io/bonnyrepacks",
+    "feed_url": "https://amonguser.github.io/bonnyrepacks/feed.json",
     "user_comment": "",
     "author": {
         "name": "Bonny"
     },
     "items": [
         {
-            "id": "https://Bonnyrepacks/bonnys-repacks-site/",
-            "url": "https://Bonnyrepacks/bonnys-repacks-site/",
+            "id": "https://amonguser.github.io/bonnyrepacks/bonnys-repacks-site/",
+            "url": "https://amonguser.github.io/bonnyrepacks/bonnys-repacks-site/",
             "title": "Changelog",
             "summary": "Website Started Added few Games",
             "content_html": "<p> </p>\n<p> </p>\n<p class=\"align-center msg--info msg\">Website Started Added few Games</p>",
