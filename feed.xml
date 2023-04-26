@@ -31,26 +31,4 @@
             ]]>
         </content>
     </entry>
-    <entry>
-        <title>Changelog</title>
-        <author>
-            <name>Bonny</name>
-        </author>
-        <link href="https://amonguser.github.io/bonnys-repacks-site/"/>
-        <id>https://amonguser.github.io/bonnys-repacks-site/</id>
-
-        <updated>2023-04-24T17:13:23+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Website Started Added few Games
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<p> </p>
-<p class="align-center msg--info msg">Website Started Added few Games</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
