@@ -3,12 +3,34 @@
     <title>Bonnysrepacks</title>
     <link href="https://amonguser.github.io/feed.xml" rel="self" />
     <link href="https://amonguser.github.io" />
-    <updated>2023-04-24T17:13:23+02:00</updated>
+    <updated>2023-04-26T22:32:35+02:00</updated>
     <author>
         <name>Bonny</name>
     </author>
     <id>https://amonguser.github.io</id>
 
+    <entry>
+        <title>Downloads Page Problem</title>
+        <author>
+            <name>Bonny</name>
+        </author>
+        <link href="https://amonguser.github.io/downloads-page-problem/"/>
+        <id>https://amonguser.github.io/downloads-page-problem/</id>
+
+        <updated>2023-04-26T22:32:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    for now the download page is broken the only way is to download with links i post every month or week DOWNLOADS: Grand Theft Auto V / GTA 5 [v1.0.1180.1/1.41 + MULTi11] - CorePack Size:36.3GB
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>for now the download page is broken the only way is to download with links i post every month or week</p>
+<p>DOWNLOADS:</p>
+<p><a href="https://www.1377x.to/torrent/4214813/Grand-Theft-Auto-V-GTA-5-v1-0-1180-1-1-41-MULTi11-CorePack-36-3-GB/#">Grand Theft Auto V / GTA 5 [v1.0.1180.1/1.41 + MULTi11] - CorePack</a> Size:36.3GB</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Changelog</title>
         <author>
